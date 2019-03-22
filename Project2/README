@@ -1,1 +1,14 @@
-zxy
+Project2 "CheckOut.py"
+
+This project will be a code written in Python. The code will be a virtual check out counter.
+
+To display this code you will need to download Notepad++
+To run this code you will need to open command prompt on your computer.
+
+The code will first display "Welcome to the checkout counter! How many items will you be purchasing 
+today?" The user will then enter the amount of items being purchased.
+After recieving the amount of items being purchased you will go into a while
+loop where it will ask you the name/cost of each item.
+After recieving the name/cost the code will display your list and subtotal plus tax amount.
+The user will then enter the amount of cash they are giving to the virtual checkout. 
+The virtual checkout will then give you change if needed.
