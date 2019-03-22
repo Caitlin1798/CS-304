@@ -1,1 +1,17 @@
-ZVS
+Project 1 "Average.py"
+
+This project will be a code written in Python. The code will allow a user
+to enter grades then average them out.
+
+To display this code you will need to download Notepad++
+To run this code you will need to open command prompt on your computer.
+
+The code will be making a user, input as many grades as they want. 
+The code will first ask you "Hello, how many grades will you be entering today?". 
+Then after you decide how many grades you will be entering
+it will then say "Please enter grade [Number]". Finally the code will average the set of
+grades given by the user, then display The average.
+
+
+
+
